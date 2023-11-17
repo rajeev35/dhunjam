@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+h1{
+    text-size-adjust: 20px;
+}
+
+
+
+
+.text{
+    size: 30rem;
+}
+
+.Form {
+    justify-items: center;
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+
+.button{
+    width: 409px;
+    height: 34px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+    
+
